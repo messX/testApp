@@ -1,0 +1,44 @@
+body{
+
+	margin:0;
+	padding: 0;
+	color:#000000;
+ 
+}
+.wrapper{
+	margin-top:80px;
+
+}
+#googleMap{
+
+	height:100%;
+	width:100%;
+}
+#places_list{
+
+	height:300px;
+	width:100%;
+	box-shadow: 10px 10px 10px solid #000000;
+	
+	margin-bottom:20px;
+	z-index: 1;
+}
+#list_top_row{
+	height:200px;
+	width:100%;
+
+}
+#deal_button{
+
+	width:100%;
+}
+#deal{
+	height:30px;
+	width:150px;
+	z-index: 1;
+	opacity: 0.8;
+	color:#ffffff;
+	font-size: 30px;
+
+
+}

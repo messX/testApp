@@ -1,0 +1,52 @@
+body{
+
+	margin:0;
+	padding: 0;
+ 
+}
+
+
+
+  .top{
+
+  		
+  		height:100%;
+      opacity: 0.8; 
+  		 
+       	
+
+
+
+  }
+  .search_main{
+
+  	margin: 200px auto;
+
+
+  }
+ video { 
+    position: fixed;
+   
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    
+ background: url('../images/main_bg.jpg') no-repeat;
+  background-size: cover;
+  transition: 1s opacity;
+}
+.aboutSite{
+
+  color:#ffffff;
+  font-style:bold;
+ 
+
+}
+#sitename{
+   margin:0 auto;
+}
+
+
+
