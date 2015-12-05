@@ -20,5 +20,6 @@ urlpatterns = [
 	url(r'^$', 'app.views.index'),
 	url(r'^search/', 'app.views.search'),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^destination_api/', 'app.views.destination_api'),
 
 ]
